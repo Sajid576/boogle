@@ -1,3 +1,3 @@
 # boogle
 
-(https://img.shields.io/static/v1?label=tech-stack&message=Next.js&color=green)
+[![Tech-Stack-Next.js](https://img.shields.io/badge/Tech%20Stack-Next.js%3F-brightgreen.svg?style=flat)]
