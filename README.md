@@ -3,7 +3,7 @@
 # boogle
 
 ## About
-Boogle is an open source tool for backend developers to test the push notification feature without implementing or integrating code on Front-end application. 
+Boogle is an open source tool for backend developers to test the push notification feature without implementing or integrating code on their own Front-end application. 
 Backend developers can test push notification system in a few seconds.
 
 ## Project Idea
