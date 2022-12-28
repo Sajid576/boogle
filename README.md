@@ -1,4 +1,4 @@
-![Tech-Stack-Next.js](https://img.shields.io/badge/Tech%20Stack-Next.js-brightgreen.svg?style=flat) ![Tech-Stack-React.js](https://img.shields.io/badge/Tech%20Stack-React.js-green.svg?style=flat) ![Language-Javascript](https://img.shields.io/badge/Language%20-Javascript-orange.svg?style=flat) ![Contact-Linkedin](https://img.shields.io/badge/Contact%20-Linkedin-blue.svg?style=flat)
+![Tech-Stack-Next.js](https://img.shields.io/badge/Tech%20Stack-Next.js-brightgreen.svg?style=flat) ![Tech-Stack-React.js](https://img.shields.io/badge/Tech%20Stack-React.js-green.svg?style=flat) ![Language-Javascript](https://img.shields.io/badge/Language%20-Javascript-orange.svg?style=flat) ![Join Telegram For Discussion-Telegram](https://t.me/+C2pVR2-54ktmZWM1)
 
 # boogle
 
@@ -8,7 +8,7 @@ Backend developers can test push notification system in a few seconds.
 
 ## Project Idea
 - [version-1] -> Developers have to add a json configuration in a text field that can be collected from `Firebase` project.
-- [version-2] -> There will be integrated android application UI on the web frontend that will generate a demo app with the provided firebase json credentials.
+- [version-2] -> CHAT_GPT will be integrated to this SAAS to generate code for connecting to push notification in the mobile/frontend application.
 
 # Contribute to this code sample 
 
